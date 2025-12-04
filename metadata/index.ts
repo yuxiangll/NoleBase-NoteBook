@@ -7,10 +7,7 @@ export const siteDescription = '记录回忆，知识和畅想的地方'
 export const include = ['笔记']
 
 /** Repo */
-export const githubRepoLink = 'https://github.com/nolebase/nolebase'
-/** Discord */
-export const discordLink = 'https://discord.gg/'
-
+export const githubRepoLink = 'https://github.com/yuxiangll/NoleBase-NoteBook'
 /** 无协议前缀域名 */
 export const plainTargetDomain = 's0cl.top'
 /** 完整域名 */
