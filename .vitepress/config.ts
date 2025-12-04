@@ -134,12 +134,12 @@ export default defineConfig({
     },
     socialLinks: [
       { icon: 'github', link: githubRepoLink },
-      { icon: 'discord', link: discordLink },
+      //{ icon: 'discord', link: discordLink },
     ],
     footer: {
-      message: '用 <span style="color: #cf8181ff;">&#9829;</span> 撰写',
+      message: 'Learn more, write more',
       copyright:
-        '<a class="footer-cc-link" target="_blank" href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> © 2022-PRESENT',
+        '<a class="footer-cc-link" target="_blank" href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> Copyright © 2025 S0cl',
     },
     search: {
       provider: 'local',
